@@ -1,0 +1,254 @@
+h3,
+h4,
+h5 {
+  color: #cf0c0c;
+}
+a {
+  color: #cf0c0c;
+}
+a:hover {
+  color: #e70d0d;
+}
+a:active {
+  color: #b70b0b;
+}
+.alternative-font {
+  color: #cf0c0c;
+}
+p.drop-caps:first-child:first-letter {
+  color: #cf0c0c;
+}
+p.drop-caps.secundary:first-child:first-letter {
+  background-color: #cf0c0c;
+}
+ul.nav-pills > li.active > a {
+  background-color: #cf0c0c;
+}
+ul.nav-pills > li.active > a:hover,
+ul.nav-pills > li.active > a:focus {
+  background-color: #cf0c0c;
+}
+.sort-source-wrapper .nav > li.active > a {
+  color: #cf0c0c;
+}
+.sort-source-wrapper .nav > li.active > a:hover,
+.sort-source-wrapper .nav > li.active > a:focus {
+  color: #cf0c0c;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: #cf0c0c;
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background-color: #b20a0a;
+}
+.btn-primary,
+.pagination > .active > a
+.owl-theme .owl-controls .owl-nav [class*="owl-"] {
+  border-color: #cf0c0c;
+  background-color: #cf0c0c;
+}
+.btn-primary:hover {
+  background-color: #e70d0d;
+}
+.progress-bar-primary {
+  background-color: #cf0c0c;
+}
+section.highlight {
+  background-color: #cf0c0c;
+  border-color: #b70b0b;
+}
+section.page-top h2 {
+  border-bottom-color: #cf0c0c;
+}
+section.toggle label {
+  color: #cf0c0c;
+  border-left-color: #cf0c0c;
+}
+section.toggle.active > label {
+  background-color: #cf0c0c;
+  border-color: #cf0c0c;
+  color: #FFF;
+}
+section.page-top.custom-product {
+  background-color: #b70b0b;
+  border-top-color: #c50b0b;
+}
+.feature-box .feature-box-icon {
+  background-color: #cf0c0c;
+}
+.feature-box.secundary .feature-box-icon i.icon {
+  color: #cf0c0c;
+}
+.thumb-info .thumb-info-type {
+  background-color: #cf0c0c;
+}
+.thumb-info .thumb-info-action-icon {
+  background-color: #cf0c0c;
+}
+.thumb-info-social-icons a {
+  background-color: #cf0c0c;
+}
+.thumbnail .zoom {
+  background-color: #cf0c0c;
+}
+.inverted {
+  background-color: #cf0c0c;
+}
+.tabs ul.nav-tabs a,
+.tabs ul.nav-tabs a:hover {
+  color: #cf0c0c;
+}
+.tabs ul.nav-tabs a:hover {
+  border-top-color: #cf0c0c;
+}
+.tabs ul.nav-tabs li.active a {
+  border-top-color: #cf0c0c;
+  color: #cf0c0c;
+}
+.tabs.tabs-bottom ul.nav-tabs li a:hover,
+.tabs.tabs-bottom ul.nav-tabs li.active a,
+.tabs.tabs-bottom ul.nav-tabs li.active a:hover,
+.tabs.tabs-bottom ul.nav-tabs li.active a:focus {
+  border-bottom-color: #cf0c0c;
+}
+.tabs.tabs-vertical.tabs-left ul.nav-tabs li a:hover,
+.tabs.tabs-vertical.tabs-left ul.nav-tabs li.active a,
+.tabs.tabs-vertical.tabs-left ul.nav-tabs li.active a:hover,
+.tabs.tabs-vertical.tabs-left ul.nav-tabs li.active a:focus {
+  border-left-color: #cf0c0c;
+}
+.tabs.tabs-vertical.tabs-right ul.nav-tabs li a:hover,
+.tabs.tabs-vertical.tabs-right ul.nav-tabs li.active a,
+.tabs.tabs-vertical.tabs-right ul.nav-tabs li.active a:hover,
+.tabs.tabs-vertical.tabs-right ul.nav-tabs li.active a:focus {
+  border-right-color: #cf0c0c;
+}
+ul.list.icons li i {
+  color: #cf0c0c;
+}
+i.icon-featured {
+  background-color: #cf0c0c;
+}
+.parallax blockquote i.icon-quote-left {
+  color: #cf0c0c;
+}
+section.video blockquote i.icon-quote-left {
+  color: #cf0c0c;
+}
+.panel-group .panel-heading a {
+  color: #cf0c0c;
+}
+.panel-group.secundary .panel-heading {
+  background-color: #cf0c0c;
+}
+#header nav ul.nav-main ul.dropdown-menu,
+#header nav ul.nav-main li.dropdown.open .dropdown-toggle,
+#header nav ul.nav-main li.active a,
+#header nav ul.nav-main li > a:hover,
+#header nav ul.nav-main li.dropdown:hover a {
+  color: #FFF;
+  background-color: #cf0c0c;
+}
+#header nav ul.nav-main ul.dropdown-menu li:hover > a {
+  background-color: #f21c1c;
+}
+#header nav ul.nav-main li.dropdown:hover ul.dropdown-menu li > a {
+  background: none;
+}
+#header nav ul.nav-main li.dropdown:hover ul.dropdown-menu li > a:hover {
+  background: #e70d0d;
+}
+#header.single-menu nav ul.nav-main li.active > a {
+  border-top: 5px solid #cf0c0c;
+}
+#header.darken-top-border {
+  border-top: 5px solid #b70b0b;
+}
+#header.colored .header-top {
+  background-color: #cf0c0c;
+}
+#header.colored .header-top ul.nav-top li a:hover {
+  background-color: #e70d0d;
+}
+#header.flat-menu nav ul.nav-main li > a,
+#header.flat-menu nav ul.nav-main li.active > a {
+  color: #666;
+}
+#header.flat-menu nav ul.nav-main li.active > a {
+  color: #cf0c0c;
+  background-color: transparent;
+}
+#header.flat-menu nav ul.nav-main li > a:hover,
+#header.flat-menu nav ul.nav-main li.dropdown:hover a {
+  color: #FFF;
+  background-color: #cf0c0c;
+}
+#header nav.mega-menu ul.nav-main li.mega-menu-item ul.dropdown-menu {
+  border-top-color: #cf0c0c;
+}
+blockquote.testimonial {
+  background: #e70d0d;
+}
+.testimonial-arrow-down {
+  border-top-color: #e70d0d;
+}
+.featured-box-secundary i.icon-featured {
+  background-color: #cf0c0c;
+}
+.featured-box-secundary h4 {
+  color: #cf0c0c;
+}
+.featured-box-secundary .box-content {
+  border-top-color: #cf0c0c;
+}
+.pricing-table .most-popular h3 {
+  background-color: #cf0c0c;
+}
+section.timeline .timeline-box.left:before,
+section.timeline .timeline-box.right:before {
+  background: #cf0c0c;
+  box-shadow: 0 0 0 3px #FFF, 0 0 0 6px #cf0c0c;
+}
+ul.history li .featured-box .box-content {
+  border-top-color: #cf0c0c;
+}
+.recent-posts .date .month,
+article.post .post-date .month {
+  background-color: #cf0c0c;
+}
+.recent-posts .date .day,
+article.post .post-date .day {
+  color: #cf0c0c;
+}
+.slider .tp-bannertimer {
+  background-color: #cf0c0c;
+}
+.home-intro p em {
+  color: #f21c1c;
+}
+.home-concept strong {
+  color: #cf0c0c;
+}
+.shop ul.products li.product .onsale {
+  background-color: #cf0c0c;
+  border-bottom-color: #a80a0a;
+}
+.shop .star-rating span,
+.shop .cart-totals tr.total .amount {
+  color: #cf0c0c;
+}
+#footer .footer-ribbon {
+  background: #cf0c0c;
+}
+#footer .footer-ribbon:before {
+  border-right-color: #870808;
+}
+body.boxed .body {
+  border-top-color: #cf0c0c;
+}
